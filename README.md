@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mahesmeh001
 - 👀 I’m interested in computer science and mathematics!
 - 🌱 I’m currently studying at the University of Wisconsin - Madison
-- 💞️ I’m looking for internships or research opporunities in CS for summer 2022
+- 💞️ I’m looking for internships or research opporunities in CS for summer 2023
 - 📫 You can reach me at mahesmeh002@gmail.com
 
 <!---
